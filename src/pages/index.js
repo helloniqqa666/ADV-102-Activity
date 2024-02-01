@@ -1,4 +1,4 @@
-
+// pages/index.js
 import TodoList from '../components/TodoList';
 
 const Home = () => {
